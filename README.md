@@ -2,7 +2,7 @@
 - 👀 I’m interested in cloud services
 - 🌱 I’m currently learning Business Informatiin Technology
 - 💞️ I’m looking to collaborate on people who like to work with me
-- 📫 How to reach me whatsapp +358415782448
+- 📫 How to reach me ruwan.bandara@myy.haaga-helia.fi
 
 <!---
 Ruwan0127/Ruwan0127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
