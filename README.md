@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ruwan0127
 - 👀 I’m interested in cloud services
-- 🌱 I’m currently learning Business Informatiin Technology
+- 🌱 I’m currently learning Business Information Technology
 - 💞️ I’m looking to collaborate on people who like to work with me
 - 📫 How to reach me ruwan.bandara@myy.haaga-helia.fi
 
